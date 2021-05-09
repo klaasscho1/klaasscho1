@@ -2,7 +2,7 @@
 // Welcome! 👋
 
 struct Klaas: Developer.iOS {
-  var worksAt = Coolblue() // Rotterdam 📦
+  var worksingt = Coolblue() // Rotterdam 📦
   var city = "The Hague"
   var interests = [
     "Feyenoord 🔴⚪️",
