@@ -1,8 +1,8 @@
 ```swift
 // Welcome! 👋
 
-struct Klaas: Developer.iOS {
-  var worksingt = Coolblue() // Rotterdam 📦
+class Klaas: Developer.iOS {
+  var currentCompany = Coolblue() // Rotterdam 📦
   var city = "The Hague"
   var interests = [
     "Feyenoord 🔴⚪️",
